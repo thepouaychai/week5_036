@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         ,"Cayman"
         ,"McLaren"
         ,"Mercedes"
-        ,"Nissan"
+        ,"Nissan GT_R"
         ,"Toyota"
         ,"Ford")
 
